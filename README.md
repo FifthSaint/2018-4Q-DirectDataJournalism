@@ -8,7 +8,7 @@
     해당 주의 상황에 따라 적절하게 확정할 필요가 있습니다.
 
 3.  R과 RStudio 설치. 이번 학습조직은 R로 진행할 계획입니다.
-    자세한 설치방법은 [여기]에서 다룹니다.
+    자세한 설치방법은 <a href="https://github.com/FifthSaint/2018-4Q-DirectDataJournalism/blob/gh-pages/R.md">여기</a>에서 다룹니다.
 
 4.  슬랙(Slack) <https://slack.com> 가입 및 학습모임 방 세팅
     슬랙은 여러 기업이 쓰고 있는 프로젝트형 메신저입니다. 슬랙이 카카오톡 단체방 보다 좋은 강점은 
