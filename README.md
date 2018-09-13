@@ -1,4 +1,4 @@
-# workshop-template
+# 배워서 바로 쓰는 데이터 저널리즘 2018/4
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
 template for creating websites for workshops.
