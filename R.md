@@ -16,6 +16,8 @@
   <a href="https://cran.r-project.org/bin/windows/base/release.htm">이 파일</a>을 다운로드해 실행하면 R 설치가 시작됩니다.
   <br><br>
   R스튜디오는 <a href="https://www.rstudio.com/products/rstudio/download/#download">여기</a>서 가장 상단의 파일을 받아 실행시키면 됩니다.
+  
+  (설치는 미리 하셔도 좋지만, 첫날 함께 진행해 보려고 합니다. 문제가 생길 경우 그냥 가져 오시면 됩니다.)
         
   만약 설치하는 컴퓨터의 '사용자'와 '관리자' 계정을 별도로 설정해 두신 경우,
   다운받은 파일을 오른쪽 클릭해 '관리자 권한으로 실행'을 선택하셔야 나중에 문제가 생기지 않습니다.
